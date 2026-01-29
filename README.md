@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samiabera0
-- 👀 I’m interested in Full Stack web and mobile projects as well as machine learning enthusiast
-- 🌱 I’m currently learning masters degree in computer science 
+- 👀 I’m interested in Full Stack web and mobile projects as well as AI enthusiast
+- 🌱 I have  masters degree in computer science 
 - 💞️ I’m looking to collaborate on different scalable projects
 - 📫 How to reach me samiabera1996@gmail.com
 - 😄 Pronouns: him
